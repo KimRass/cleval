@@ -1,4 +1,4 @@
-# Paper Review
+# Paper Summary
 - Paper: https://arxiv.org/pdf/2006.06244.pdf
 - IoU + CRW
   - Intersection-over-Union (IoU) IoU metric originally comes from object detection task such as Pascal VOC [6]. IoU accepts detections that match the ground truth (GT) box in an exclusive one-to-one manner only when the overlapping region satisfy the predefined threshold. Although IoU is the most widely used evaluation metric thanks to its simplicity, its behavior is clearly not suitable for evaluating texts as argued by [3, 19]. IoU cannot handle granularity
